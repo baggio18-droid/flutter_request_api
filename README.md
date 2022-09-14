@@ -1,16 +1,28 @@
 # flutter_request_api
 
-A new Flutter project.
+Baggio Deroger
 
-## Getting Started
+1. - Getting the API Key
+   - Testing connection in themoviedb api dashboard
+![Result](images/result7.PNG)
 
-This project is a starting point for a Flutter application.
+2. - Connecting Flutter Application to themoviedb with package http
 
-A few resources to get you started if this is your first Flutter project:
+=>
+![Result](images/result1.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. - Creating a model for http responses
+   - Creating a model for http responses
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> Error when displaying the output
+![Result](images/result4.PNG
+
+  - Creating a Listview
+![Result](images/result5.PNG)
+
+4. - Creating Popular Movies detail page
+
+=>
+![Result](images/result6.PNG)
+
+
